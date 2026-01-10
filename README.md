@@ -92,7 +92,7 @@ The dataset represents manufacturing operational data and includes:
 
 ## 🚀 How to Use the Dashboard
 
-1. Download the `.pbix` file from the repository
+1. Download the `.pbix` file from the repository or use this link <a href="https://github.com/Tarun5c7/Data-Analytics-Dashboard---POWERBI/blob/main/Real%20Dashboard_Manufacturing_Analysis%5B1%5D.pbix">.Pbix</a>
 2. Open it using **Power BI Desktop**
 3. Use slicers to filter by date, product, or plant
 4. Interact with visuals to explore insights
