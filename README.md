@@ -85,8 +85,8 @@ The dataset represents manufacturing operational data and includes:
 
 ## 📷 Dashboard Preview
 
-*<img width="1161" height="655" alt="Manufacturing Ananlysis" src="https://github.com/user-attachments/assets/7ba335dc-ec82-4171-92c6-0f37d6a87b7f" />
-*
+<img width="1161" height="655" alt="Manufacturing Ananlysis" src="https://github.com/user-attachments/assets/7ba335dc-ec82-4171-92c6-0f37d6a87b7f" />
+
 
 ---
 
